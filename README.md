@@ -16,5 +16,8 @@
 ## CPM
 
 
-## T5
+## MT5
+预训练模型下载: https://huggingface.co/imxly/t5-pegasus
+
+## UniLM
 
